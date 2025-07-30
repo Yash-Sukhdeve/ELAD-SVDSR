@@ -20,7 +20,7 @@ The **ELAD‑SVDSR** dataset is designed for research on synthetic voice (DeepFa
 
 ### 1) Access & citation
 
-- Visit the IEEE DataPort page: [**ELAD‑SVDSR (DOI: 10.21227/ab5w-0c23)**](https://doi.org/10.21227/ab5w-0c23).
+- Visit the IEEE DataPort page: [**ELAD‑SVDSR (DOI: 10.21227/ab5w-0c23)**](https://ieee-dataport.org/documents/extended-length-audio-dataset-synthetic-voice-detection-and-speaker-recognition-elad).
 - Review and accept the **ELAD‑SVDSR EULA** before use.
 - Cite the dataset using the DOI above (APA and BibTeX citation formats are available on the DataPort page).
 
